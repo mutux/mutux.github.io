@@ -1,0 +1,64 @@
+<div class="clearfix"></div>
+<br>
+<div id="comment">
+<article class="post-content">
+  <span style='font-wight:bold; font-size:40px; color:$grey-color-dark;'>Comments</span>
+  <span>
+      <a style='color:white; background-color:green; padding:10px; border:1px solid green; border-radius:5px; display:inline-block; position:relative; left:50%;' href='https://github.com/mutux/mutux.github.io/issues/{{ page.comment_id }}'>Post a Comment</a>
+  </span>
+  <br/><br/>
+  <hr/>
+</article>
+</div>
+
+<script type="text/javascript">
+  function timeSince(date) {
+    var seconds = Math.floor((new Date() - date) / 1000)
+    var interval = Math.floor(seconds / 31536000)
+
+    if (interval > 1) {
+      return interval + " years"
+    }
+    interval = Math.floor(seconds / 2592000)
+    if (interval > 1) {
+      return interval + " months"
+    }
+    interval = Math.floor(seconds / 86400)
+    if (interval > 1) {
+      return interval + " days"
+    }
+    interval = Math.floor(seconds / 3600)
+    if (interval > 1) {
+      return interval + " hours"
+    }
+    interval = Math.floor(seconds / 60)
+    if (interval > 1) {
+      return interval + " minutes"
+    }
+    return Math.floor(seconds) + " seconds"
+  }
+  function loadComments(data) {
+    for (var i=0; i<data.length; i++) {
+      var cuser = data[i].user.login;
+      var cuserlink = data[i].user.html_url;
+      var clink = data[i].html_url;
+      var cbody = data[i].body_html;
+      var cavatarlink = data[i].user.avatar_url;      
+      var cdate = new Date(data[i].created_at);
+      var dopts = { month: 'short', day: 'numeric', year: 'numeric' }
+
+      
+      var commentHTML = 
+      '<br><div class="comment-header"><a class="comment-username" href="' + cuserlink + '"><img alt="" width="40" height="40" src="'+ cavatarlink +'">' + cuser + '</a> commented <a class="comment-date" href="' + clink + '">' + timeSince(cdate) + ' ago </a></div><article class="comment-body">' + cbody + '</article>'
+
+      $("#comment").append(commentHTML);
+    }
+  }
+  $.ajax("https://api.github.com/repos/mutux/mutux.github.io/issues/{{ page.comment_id }}/comments", {
+    headers: {Accept: "application/vnd.github.v3.html+json"},
+    dataType: "json",
+    success: function(msg){
+      loadComments(msg);
+   }
+  });
+</script>
