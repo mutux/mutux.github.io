@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My R&D Interests lie in Text Mining for almost a decade. I have published some papers on academic conferences and journals like SIGIR, CIKM, KDD, WWW, ICDM and TKDE. I have also developed an award-winning system for mining events from social media. Currently I'm working on a project of public opinion analysis in McGill university. My major programming languages are Java and Python, although have been playing with other languages like Matlab, Objective-C, Go etc. from time to time.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
