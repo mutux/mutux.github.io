@@ -9,7 +9,7 @@ This post is to test the eligible of static pages using `jekyll` and `mathjax` t
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight python %}
+{% highlight python linenos %}
 def print_hi(name)
   print "Hi", name
 
@@ -17,7 +17,7 @@ print_hi('Tom')
 # prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-## A formula example of 
+## A formula example of
 ### example 1:
 \\(a^2+b^2=c^2\\)
 ### example 2:
