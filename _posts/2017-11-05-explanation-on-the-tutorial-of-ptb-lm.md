@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Explanation on TensorFlow language model"
+title:  "An explanation about the TensorFlow language model tutorial"
 date:   2017-11-05 13:10:36 -0400
 comment_id: 6
 ---
-A lot of TensorFLow **beginners** feel that [the code](https://github.com/tensorflow/models/blob/master/tutorials/rnn/ptb/ptb_word_lm.py) of the rnn language model supporting [the official tutorial](https://www.tensorflow.org/tutorials/recurrent) is rather obscure. It has actually stopped some people from diving deeper into deep learning. As one of them, I also spent a lot of time to figure out what the code is trying to say, since it's quite different from what they describe in the tutorial.
+A lot of TensorFLow **beginners** feel that [the code](https://github.com/tensorflow/models/blob/master/tutorials/rnn/ptb/ptb_word_lm.py) of the rnn language model supporting [the official tutorial](https://www.tensorflow.org/tutorials/recurrent) is a little bit obscure. It has almost stopped me from diving into deep learning. It spent me a lot of time to figure out what the code is trying to say, since it's quite different from what they describe in the tutorial.
 
 So after read through the codes, I **reorganized** the code into several pieces and **rename** a couple of confusing variables to make the code more understandable.
 
