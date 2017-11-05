@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An explanation about the TensorFlow language model tutorial"
+title:  "An explanation on TensorFlow language model tutorial"
 date:   2017-11-05 13:10:36 -0400
 comment_id: 6
 ---
@@ -38,7 +38,7 @@ The whole training dataset is a single big text file. A unique word is firstly g
 During training process, we will feed the data in a batch-wise way to the program, so the vector are reshaped into a matrix with dimensions (batch_size, num_batch).
 
 #### slice
-Honestly, I have difficulty in understanding the concept of the epochs in the original code at the begining, partly because of the lack of knowledge on dnn training routines. Other reasons like not familiar with `range_input_producer` and the confusing naming conventions (`num_steps, epoch_size, batch_len, batch_size`) are also spikes in my feet. 
+Honestly, I have difficulty in understanding the concept of the epochs in the original code at the begining, partly because of the lack of knowledge on dnn training routines. Other reasons like not familiar with `range_input_producer` and the confusing naming conventions (`num_steps, epoch_size, batch_len, batch_size`) are also spikes in my feet.
 I decided to rename some fo the variables to lessen the confusion in my head, especially the ones associated with the concept epoch.
 
 
