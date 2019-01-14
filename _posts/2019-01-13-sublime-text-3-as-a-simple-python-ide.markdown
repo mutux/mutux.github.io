@@ -1,5 +1,5 @@
 ---
-title: Sublime Text 3 As a Simple Python IDE
+title: Sublime Text 3 As Python IDE
 layout: post
 ---
 
@@ -109,19 +109,29 @@ Then save the file as ``Python.sublime-settings``
   "anaconda_linting": false
 }
 {% endhighlight %}
-- Install Python environment with MiniConda
-  - Download [Miniconda](https://repo.anaconda.com/miniconda/Miniconda2-latest-MacOSX-x86_64.sh)
-  - Install ``sh Miniconda2-latest-MacOSX-x86_64.sh``
-  - Create & User python Environment version 2.7
-    - ``conda create --name python27 python=2.7``
-    - ``source activate python27``
-    - ``python --version``
-    - ``(deactivate)``
-  - Install Syntax Checker ``pyflakes`` and ``pycodestyle``
-    -  ``pip install pyflakes``
-    -  ``pip install pycodestyle``
-  - Use ``which python`` to get the path of python for future use.
-- Install Syntax Checker ``SublimeLinter-pyflakes`` and ``SublimeLinter-pycodestyle`` and ``SublimeLinter-json`` using Package Control
+
+**Install Python environment with MiniConda**
+- Download [Miniconda](https://repo.anaconda.com/miniconda/Miniconda2-latest-MacOSX-x86_64.sh)
+- Install ``sh Miniconda2-latest-MacOSX-x86_64.sh``
+- Create & User python Environment version 2.7
+  - ``conda create --name python27 python=2.7``
+  - ``source activate python27``
+  - ``python --version``
+  - ``(deactivate)``
+- Use ``which python`` to get the path of python for future use.
+- Update the settings for Anacoda Plugin to use Python27 as:
+{% highlight json linenos %}
+{
+    "anaconda_linting": false,
+    "python_interpreter": "~/miniconda2/envs/python27/bin/python"
+}
+{% endhighlight %}
+
+**Install Syntac Checker and ST3 Plugins**
+- Install Syntax Checker ``pyflakes`` and ``pycodestyle``
+  -  ``pip install pyflakes``
+  -  ``pip install pycodestyle``
+- Install Syntax Checker ST3 Plugins ``SublimeLinter-pyflakes`` and ``SublimeLinter-pycodestyle`` and ``SublimeLinter-json`` using Package Control
 - Customize the linter settings ``Sublime Text -> Preferences -> Package Settings -> SublimeLinter -> Settings-User``, add the follow code:
 {% highlight json linenos %}
 // SublimeLinter Settings - User
@@ -144,23 +154,18 @@ Then save the file as ``Python.sublime-settings``
   },
 }
 {% endhighlight %}
-- Update the settings for Anacoda Plugin to use Python27 as:
-{% highlight json linenos %}
-{
-	"anaconda_linting": false,
-	"python_interpreter": "~/miniconda2/envs/python27/bin/python"
-}
-{% endhighlight %}
-- Install ``TerminalView`` with Package Control
-  - Set the key binding:
+
+**Install ``TerminalView`` with Package Control**
+- Set the key binding:
   {% highlight json linenos %}
   [
 	{ "keys": ["ctrl+shift+t"], "command": "terminal_view_open" }
   ]
   {% endhighlight %}
-- Install ``SFTP`` with Package Control
-  - Right Click a folder name on the sidebar, select ``SFTP/FTP -> Add Remote Mapping...``, to add a mapping file named ``sftp-config.json`` in the folder.
-  - Edit fields accordingly, e.g.:
+
+**Install ``SFTP`` with Package Control**
+- Right Click a folder name on the sidebar, select ``SFTP/FTP -> Add Remote Mapping...``, to add a mapping file named ``sftp-config.json`` in the folder.
+- Edit fields accordingly, e.g.:
   {% highlight json linenos %}
   {
     // sftp, ftp or ftps
@@ -183,7 +188,8 @@ Then save the file as ``Python.sublime-settings``
   }
   {% endhighlight %}
   Once the SFTP is set, one can edit locally and upload to remote server automatically, and debug on the remote server.
-- Modify the font size of ST3 by:
+
+**Modify the font size of ST3**
 {% highlight json linenos %}
 {
 	"auto_complete": false,
@@ -200,6 +206,37 @@ Then save the file as ``Python.sublime-settings``
 	"word_wrap": true
 }
 {% endhighlight %}
+
+**Install sshpass**
+- Install ``Homebrew`` with
+{% highlight python %}
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+{% endhighlight %}
+- Install ``sshpass``
+{% highlight python %}
+brew install https://raw.githubusercontent.com/kadwanev/bigboybrew/master/Library/Formula/sshpass.rb
+{% endhighlight %}
+- Settings
+  - ``mkdir .bin``
+  - ``cat password > x``
+  - ``vim loginx``
+  {% highlight python %}
+  #/bin/sh
+  sshpass -f ~/.bin/x ssh user@hostname
+  {% endhighlight %}
+  - save and quit ``:q``
+  - ``chmod a+x loginx``
+  - add ``export PATH="~/.bin:$PATH"`` into ~/.bash_profile
+  - ``source ~/.bash_profile``
+- ``loginx`` to connect
+
+**Iterm2 Prompt Color Scheme**
+{% highlight python %}
+export CLICOLOR=1
+LSCOLORS=gxfxcxdxbxegedabagacad
+export PS1='\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;36m\]\w\[\033[00m\]\$ '
+{% endhighlight %}
+
 **References**
 - https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/
 - https://conda.io/docs/user-guide/getting-started.html#managing-python
