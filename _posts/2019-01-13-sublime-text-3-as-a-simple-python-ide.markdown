@@ -5,7 +5,7 @@ layout: post
 
 **Install Package Control**
 - Copy the Python code for Sublime Text 3 from [here](https://packagecontrol.io/installation#st3), click ``View->Show Console`` to open the ST3 console, Paste the code into the console, press Enter. Reboot ST3.
-{% highlight python linenos %}
+{% highlight python %}
 import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
 {% endhighlight %}
 - Press ``CMD + Shift + P``, and typing ``Install Package``, and Press Enter.
@@ -236,10 +236,19 @@ brew install https://raw.githubusercontent.com/kadwanev/bigboybrew/master/Librar
 - ``loginx`` to connect
 
 **Iterm2 Prompt Color Scheme**
+- Set Color
 {% highlight python %}
 export CLICOLOR=1
 LSCOLORS=gxfxcxdxbxegedabagacad
 export PS1='\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;36m\]\w\[\033[00m\]\$ '
+{% endhighlight %}
+- Set Hostname
+{% highlight python %}
+$ sudo scutil --set ComputerName "newname"
+$ sudo scutil --set LocalHostName "newname"
+$ sudo scutil --set HostName "newname"
+$ dscacheutil -flushcache
+Restart your Mac
 {% endhighlight %}
 
 **Sublime Text 3 shortcut**
