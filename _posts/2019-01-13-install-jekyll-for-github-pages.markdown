@@ -43,7 +43,14 @@ layout: post
 2. Select ``Install Package``
 3. Search ``Jekyll`` and install the latest version
 4. Change settings ``Preferences->Package Settings->Jekyll->Settings-User`` to add ``"jekyll_posts_path": "/xxx/newblog/_posts"``
-5. Open the folder ``/xxx/newblog/_posts/`` and right click to add a new file by inputing the file name.
+
+**Wite a New Post**
+1. Select the Folder ``_posts``
+2. Press ``CMD + Shift + P``
+3. Search ``Jekyll New Post``, and press Enter
+4. Input the File Name, e.g., "The First Blog", and press Enter
+5. The Plugin will rename the file following the rules automatically.
+6. Edit the file, and use ``git`` command to submit or update.
 
 **References:**
 - https://github.com/rbenv/rbenv/issues/938
