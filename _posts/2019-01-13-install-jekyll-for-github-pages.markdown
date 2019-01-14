@@ -3,8 +3,6 @@ title: Install Jekyll for github pages
 layout: post
 ---
 
-# Installation Guide
-
 **Install Ruby Environment**
 1. ``brew install rbenv``
 2. Add ``"eval $(rbenv init -)"`` to the end of ``~/.bash_profile``
