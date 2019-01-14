@@ -151,9 +151,14 @@ Then save the file as ``Python.sublime-settings``
         "linux": [],
         "osx": ["~/miniconda2/envs/python27/bin"],
         "windows": []
-  },
+  }
 }
 {% endhighlight %}
+
+**Keyboard Shortcut**
+- Goto Anything: ``CMD + P``
+- Goto LineNumber: ``^Ctrl + G``
+- Goto Symbol: ``CMD + R``
 
 **Install ``TerminalView`` with Package Control**
 - Set the key binding:
@@ -237,7 +242,14 @@ LSCOLORS=gxfxcxdxbxegedabagacad
 export PS1='\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;36m\]\w\[\033[00m\]\$ '
 {% endhighlight %}
 
+**Sublime Text 3 shortcut**
+- Creat a Symbol link to the binary file
+  * ``$ ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl ~/.bin/subl``
+- Open a folder of file
+  * ``$ subl ~/Documents/test``
+
 **References**
 - https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/
 - https://conda.io/docs/user-guide/getting-started.html#managing-python
 - https://conda.io/miniconda.html
+- http://www.sublimetext.com/docs/3/osx_command_line.html
