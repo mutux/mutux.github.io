@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 𝗠essage 𝗨nderstanding | 𝗧ext 𝗨nderstanding e𝗫plorer
+title: a MUggle's Text Understanding eXpedition
 alt: Tux
 email: pdu.txt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  𝗠essage 𝗨nderstanding & 𝗧ext 𝗨nderstanding e𝗫plorer
+  a MUggle's Text Understanding eXpedition
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pan_mutux
