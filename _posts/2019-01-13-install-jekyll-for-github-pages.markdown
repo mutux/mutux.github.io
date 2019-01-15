@@ -57,6 +57,15 @@ comment_id: 7
 1. Create an issue under your github page project, remember the issue id.
 2. Add ``comment_id: ##`` in the head area.
 
+**Add support of Mathjax**
+- ``gem install kramdown``
+- Change the markdown line in _config.yml to ``markdown: kramdown``
+- Add the following script to ``_layouts/default.html``:
+{% highlight python %}
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% endhighlight %}
+- Mark any mathematics in your posts within a pair of ``$$``s.
+- A test: $$x^2$$.
 
 **References:**
 - https://github.com/rbenv/rbenv/issues/938
