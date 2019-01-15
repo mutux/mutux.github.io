@@ -50,7 +50,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.6.2)
+  ffi (>= 1.9.24)
+  jekyll (~> 3.6.3)
   jekyll-feed (~> 0.6)
   jekyll-paginate
   tzinfo-data
