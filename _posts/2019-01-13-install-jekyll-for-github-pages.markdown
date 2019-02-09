@@ -57,12 +57,33 @@ comment_id: 7
 1. Create an issue under your github page project, remember the issue id.
 2. Add ``comment_id: ##`` in the head area.
 
-**Add support of Mathjax**
+**Add support of Mathjax via secure https connections**
 - ``gem install kramdown``
 - Change the markdown line in _config.yml to ``markdown: kramdown``
-- Add the following script to ``_layouts/default.html``:
+- Create a local js file named ``mathjax-local.js`` with script like this:
+{% highlight Javascript %}
+window.MathJax = {
+     displayAlign: "center",
+     displayIndent: "0em",
+     "HTML-CSS": { scale: 100,
+                   linebreaks: { automatic: "false" },
+                   webFont: "TeX"
+     },
+     SVG: {scale: 100,
+           linebreaks: { automatic: "false" },
+           font: "TeX"},
+     NativeMML: {scale: 100},
+     TeX: { equationNumbers: {autoNumber: "AMS"},
+            MultLineWidth: "85%",
+            TagSide: "right",
+            TagIndent: ".8em"
+     }
+ };
+{% endhighlight %}
+- Add the following script to ``_layouts/default.html``, or to ``_includes/header.html``:
 {% highlight python %}
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="/mathjax-local.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 {% endhighlight %}
 - Mark any mathematics in your posts within a pair of ``$$``s.
 - A test: $$x^2$$.
