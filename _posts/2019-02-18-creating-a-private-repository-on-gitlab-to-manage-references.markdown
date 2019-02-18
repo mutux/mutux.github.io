@@ -17,6 +17,9 @@ layout: post
 - Clone the repository to your local directory
   - ``cd */path/to/your/local/repository/*``
   - ``git clone git@gitlab.com:YourName/YourRepository.git``
+- Config locally your repository (without **\-\-global** option)
+  - ``git config user.email "user@email.com"``
+  - ``git config user.name "username"``
 - Always pull your repository before you manipulate it
 	- ``git pull``
 - Use ``.gitignore`` file to ignore some local file in submission
