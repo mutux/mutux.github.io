@@ -3,20 +3,15 @@ title: Conferences
 layout: post
 ---
 **IR/NLP/DM/ML Conference Deadlines**
+- ***Publish or Perish***
+- *Do **Cool** things that **Matter***
 
-- *Publish or Perish*
-- *Deadlines are the No. 1 productive forces*
-- *Do Cool things that Matter*
-- *Quality Beats Quantity*
-
-
-Credit: https://sites.google.com/site/lyangwww/resources
 
 |Conference|Paper Deadline|Notification Date|Conference Date|Location|
 |:-----------------:|:---:|:---:|:---:|:--:|
 |SIGIR 2019 L| 2019-01-28| 2019-04-14 |2019-07-25|Paris, France|
 |ICML 2019|2019-01-18| | | |
-|ACL 2019|2019-03-04|2019-05-13|2019-07-28|Florence, Italy|
+|~~ACL 2019~~|2019-03-04|2019-05-13|2019-07-28|Florence, Italy|
 |IJCAI 2019|2019-02-25|2019-05-09|2019-08-10|Macao, China|
 |**IJCAI Survey 2019**|**2019-03-31**|2019-05-09|2019-08-10|**Macao, China**|
 |KDD 2019|2019-02-03|2019-04-28|2019-08-03|Anchorage, Alaska, USA|
@@ -44,4 +39,10 @@ Credit: https://sites.google.com/site/lyangwww/resources
 |NIPS 2020|||||
 |ICDM 2020|||||
 |WSDM 2021|||||
+|...|||||
 {:.mbtablestyle}
+Updating...
+
+Credit to page[^1]
+
+[^1]: [https://sites.google.com/site/lyangwww/resources](https://sites.google.com/site/lyangwww/resources){:target="_blank"}
