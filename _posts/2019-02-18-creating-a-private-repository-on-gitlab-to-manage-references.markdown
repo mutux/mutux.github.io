@@ -1,7 +1,11 @@
 ---
-title: creating a private repository on gitlab to manage references
+title: Creating A Private Repository on Gitlab to Manage References
 layout: post
 ---
+Gitlab allows you to create private repositories, that's the point to use gitlab instead of github.
+But it seems the situation is not the same now, Github is also supporting private repositories recently.
+
+
 
 - Create the repository on Gitlab
 - Set your SSH keys in your Profile
