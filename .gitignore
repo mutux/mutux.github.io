@@ -4,3 +4,4 @@ _site
 *.log
 run
 .DS_Store
+.gitignore
