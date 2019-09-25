@@ -220,7 +220,11 @@ pre {
         border-collapse: collapse;
 
    > table, td, th {
-        border: 1px solid black;
+        border: 0px solid black;
+        padding: 6px
         }
+   > tbody, th {
+        border: 1px solid black;
+   }
 }
 
