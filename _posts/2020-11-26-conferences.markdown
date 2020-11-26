@@ -1,5 +1,5 @@
 ---
-title: Conferences 2021 (Publish OR Perish)
+title: 2021 - Publish or Perish
 layout: post
 ---
 # 47
