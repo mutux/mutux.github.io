@@ -7,7 +7,7 @@ You want to use Linux and OpenSSH to automate your tasks. Therefore you need an 
 
 ## How to do it
 
-1. First log in on A as user a and **generate a pair of authentication keys**. **Do not enter a passphrase**:
+- First log in on A as user a and **generate a pair of authentication keys**. **Do not enter a passphrase**:
   {% highlight bash %}
   a@A:~> ssh-keygen -t rsa
 
@@ -22,7 +22,7 @@ You want to use Linux and OpenSSH to automate your tasks. Therefore you need an 
   3e:4f:05:79:3a:9f:96:7c:3b:ad:e9:58:37:bc:37:e4 a@A
   {% endhighlight %}
 
-2. Now use ssh to **create a directory ~/.ssh** as user b on B. (The directory may already exist, which is fine):
+- Now use ssh to **create a directory ~/.ssh** as user b on B. (The directory may already exist, which is fine):
 
   {% highlight bash %}
   a@A:~> ssh b@B mkdir -p .ssh
@@ -30,7 +30,7 @@ You want to use Linux and OpenSSH to automate your tasks. Therefore you need an 
   b@B's password:
   {% endhighlight %}
 
-3. Finally **append a's new public key to b@B:.ssh/authorized_keys** and enter b's password one last time:
+- Finally **append a's new public key to b@B:.ssh/authorized_keys** and enter b's password one last time:
   {% highlight bash %}
   a@A:~> cat .ssh/id_rsa.pub | ssh b@B 'cat >> .ssh/authorized_keys'
 
