@@ -8,8 +8,9 @@ You want to use Linux and OpenSSH to automate your tasks. Therefore you need an 
 ## How to do it
 
 # First log in on A as user a and generate a pair of authentication keys. Do not enter a passphrase:
-{% highlight python %}
-**a@A:~> ssh-keygen -t rsa**
+{% highlight bash %}
+a@A:~> ssh-keygen -t rsa
+
 Generating public/private rsa key pair.
 Enter file in which to save the key (/home/a/.ssh/id_rsa):
 Created directory '/home/a/.ssh'.
@@ -23,20 +24,22 @@ The key fingerprint is:
 
 # Now use ssh to create a directory ~/.ssh as user b on B. (The directory may already exist, which is fine):
 
-{% highlight python %}
-**a@A:~> ssh b@B mkdir -p .ssh**
+{% highlight bash %}
+
+a@A:~> ssh b@B mkdir -p .ssh
 b@B's password:
 {% endhighlight %}
 
 # Finally append a's new public key to b@B:.ssh/authorized_keys and enter b's password one last time:
-{% highlight python %}
-**a@A:~> cat .ssh/id_rsa.pub | ssh b@B 'cat >> .ssh/authorized_keys'**
+{% highlight bash %}
+a@A:~> cat .ssh/id_rsa.pub | ssh b@B 'cat >> .ssh/authorized_keys'
+
 b@B's password:
 {% endhighlight %}
 
 #From now on you can log into B as b from A as a without password:
 
-{% highlight python %}
+{% highlight bash %}
 a@A:~> ssh b@B
 {% endhighlight %}
 
