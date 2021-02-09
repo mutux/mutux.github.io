@@ -1,5 +1,5 @@
 ---
-title: 2
+title: 0.5
 layout: passage
 ---
 
