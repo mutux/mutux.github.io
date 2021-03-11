@@ -2,15 +2,6 @@
 title: 60
 layout: passage
 ---
-
-[<span style="color:gray; font-size:28pt">EMNLP &#9679; 05-10</span>](#){:target="_blank"}
-<br>
-<span style="color:lightgray;width:100px;display:inline-block;text-align:left;font-size:8pt">NIPS &#9679; 05-19</span>
-<span style="color:lightgray;width:100px;display:inline-block;text-align:left;font-size:8pt">CIKM &#9679; 05-19</span>
-<span style="color:gray;width:100px;display:inline-block;text-align:left;font-size:8pt">EMNLP &#9679; 05-10</span>
-<br>
-<br>
-
 <span style="color:gray;font-weight:bold;width:225px;display:inline-block;text-align:center">MARCH</span>
 <span style="color:gray;font-weight:bold;width:225px;display:inline-block;text-align:center">APRIL</span>
 <span style="color:gray;font-weight:bold;width:225px;display:inline-block;text-align:center">MAY</span>
@@ -25,7 +16,7 @@ layout: passage
 
 
 <br>
-<span style="color:lightgray;font-size:8pt">------------------------- 3 Paper Seasons ---------------------</span>
+<span style="color:lightgray;font-size:8pt">--------------------------------------------------------------------------------------- 3 Paper Seasons ---------------------------------------------------------------------------------</span>
 <br>
 <span style="color:lightgray;font-size:8pt">&nbsp;&nbsp; **JAN >> FEB**  &#9679; &nbsp;&nbsp; ACL, ICML, IJCAI >> SIGIR, KDD</span>
 <br>
@@ -33,10 +24,14 @@ layout: passage
 <br>
 <span style="color:lightgray;font-size:8pt">&nbsp;&nbsp; **AUG >> SEP** &#9679; &nbsp;&nbsp; WSDM, AAAI >> WWW, ICRL</span>
 <br>
-<span style="color:lightgray;font-size:8pt"> ------------------------------------------------------------------------ </span>
+<span style="color:lightgray;font-size:8pt">------------------------------------------------------------------------------------- Target Conferences  ---------------------------------------------------------------------------------</span>
 <br>
-<span style="color:lightgray;width:100px;display:inline-block;text-align:left;font-size:8pt">~~SIGIR Short &#9679; 03-02~~</span>
-<span style="color:lightgray;width:100px;display:inline-block;text-align:left;font-size:8pt">~~SIGIR &#9679; 02-09~~</span>
-<span style="color:lightgray;width:100px;display:inline-block;text-align:left;font-size:8pt">~~ACL &#9679; 01-25~~</span>
-<span style="color:lightgray;width:100px;display:inline-block;text-align:left;font-size:8pt">~~IJCAI &#9679; 01-12~~</span>
+<span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt">NIPS &#9679; 05-19</span>
+<span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt">CIKM &#9679; 05-19</span>
+[<span style="color:red;width:118px;display:inline-block;text-align:left;">EMNLP &#9679; 05-10</span>](https://www.softconf.com/emnlp2021/papers/user/){:target="_blank"}
+<br>
+<span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt">~~SIGIR Short &#9679; 03-02~~</span>
+<span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt">~~SIGIR &#9679; 02-09~~</span>
+<span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt">~~ACL &#9679; 01-25~~</span>
+<span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt">~~IJCAI &#9679; 01-12~~</span>
 <br>
