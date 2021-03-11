@@ -2,6 +2,13 @@
 title: 60
 layout: passage
 ---
+[<span style="color:red;width:268px;display:inline-block;text-align:left;font-size:28px">EMNLP &#9679; 05-10</span>](https://www.softconf.com/emnlp2021/papers/user/)
+<span style="color:lightgray;width:168px;display:inline-block;text-align:left;font-size:12px">CIKM &#9679; 05-19</span>
+<span style="color:lightgray;width:168px;display:inline-block;text-align:left;font-size:12px">NIPS &#9679; 05-19</span>
+<br>
+<br>
+<br>
+<br>
 <span style="color:gray;font-weight:bold;width:225px;display:inline-block;text-align:center">MARCH</span>
 <span style="color:gray;font-weight:bold;width:225px;display:inline-block;text-align:center">APRIL</span>
 <span style="color:gray;font-weight:bold;width:225px;display:inline-block;text-align:center">MAY</span>
@@ -15,23 +22,26 @@ layout: passage
 |28|29|30|31| | | | |25|26|27|28|29|30| | |23|24|25|26|27|28|29|
 
 
+
 <br>
-<span style="color:lightgray;font-size:8pt">--------------------------------------------------------------------------------------- 3 Paper Seasons ---------------------------------------------------------------------------------</span>
 <br>
-<span style="color:lightgray;font-size:8pt">&nbsp;&nbsp; **JAN >> FEB**  &#9679; &nbsp;&nbsp; ACL, ICML, IJCAI >> SIGIR, KDD</span>
-<br>
-<span style="color:lightgray;font-size:8pt">&nbsp;&nbsp; **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAY**  &#9679; &nbsp;&nbsp; EMNLP, CIKM, NIPS</span>
-<br>
-<span style="color:lightgray;font-size:8pt">&nbsp;&nbsp; **AUG >> SEP** &#9679; &nbsp;&nbsp; WSDM, AAAI >> WWW, ICRL</span>
-<br>
-<span style="color:lightgray;font-size:8pt">------------------------------------------------------------------------------------- Target Conferences  ---------------------------------------------------------------------------------</span>
-<br>
-<span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt">NIPS &#9679; 05-19</span>
-<span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt">CIKM &#9679; 05-19</span>
-[<span style="color:red;width:118px;display:inline-block;text-align:left;">EMNLP &#9679; 05-10</span>](https://www.softconf.com/emnlp2021/papers/user/){:target="_blank"}
-<br>
-<span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt">~~SIGIR Short &#9679; 03-02~~</span>
-<span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt">~~SIGIR &#9679; 02-09~~</span>
-<span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt">~~ACL &#9679; 01-25~~</span>
-<span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt">~~IJCAI &#9679; 01-12~~</span>
-<br>
+<details>
+  <summary style="color:lightgray;font-size:10pt">Notes</summary>
+  <p>
+    <span style="color:lightgray;font-size:8pt">-------------------------------------------------------------------------------- 3 Paper Seasons --------------------------------------------------------------------------</span>
+    <br>
+    <span style="color:lightgray;font-size:8pt">&nbsp;&nbsp; JAN &#9679; FEB &nbsp;  &#9679; &nbsp;&nbsp; ACL, ICML, IJCAI >> SIGIR, KDD</span>
+    <br>
+    <span style="color:lightgray;font-size:8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAY &nbsp;  &#9679; &nbsp;&nbsp; EMNLP, CIKM, NIPS</span>
+    <br>
+    <span style="color:lightgray;font-size:8pt">&nbsp;&nbsp; AUG &#9679; SEP &nbsp; &#9679; &nbsp;&nbsp; WSDM, AAAI >> WWW, ICRL</span>
+    <br>
+    <span style="color:lightgray;font-size:8pt">------------------------------------------------------------------------------ Target Conferences  --------------------------------------------------------------------------</span>
+    <br>
+    <span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt"><del>SIGIR Short &#9679; 03-02</del></span>
+    <span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt"><del>SIGIR &#9679; 02-09</del></span>
+    <span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt"><del>ACL &#9679; 01-25</del></span>
+    <span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt"><del>IJCAI &#9679; 01-12</del></span>
+    <br>
+  </p>
+</details>
