@@ -2,7 +2,6 @@
 title: SSH Login Without Password
 layout: post
 ---
-## Your aim
 You want to use Linux and OpenSSH to automate your tasks. Therefore you need an automatic login from host A / user a to Host B / user b. You don't want to enter any passwords, because you want to call ssh from a within a shell script.
 
 ## How to do it

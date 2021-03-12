@@ -2,7 +2,6 @@
 title: Conferences
 layout: post
 ---
-# IR/NLP/DM/ML Conferences (updating...)
 - Publish or Perish
 - Do Cool things that Matter
 
