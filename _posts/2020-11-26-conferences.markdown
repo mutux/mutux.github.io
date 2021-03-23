@@ -9,7 +9,12 @@ layout: passage
 <br>
 
 <table>
-<tr><th><span style="font-weight:bold;color:gray;width:320px;display:inline-block;text-align:center">MARCH</span></th><th><span style="font-weight:bold;color:gray;width:320px;display:inline-block;text-align:center">APRIL</span></th><th><span style="font-weight:bold;color:gray;width:320px;display:inline-block;text-align:center">MAY</span></th></tr>
+<tr>
+    <th><span style="font-weight:bold;color:gray;width:245px;display:inline-block;text-align:center">MARCH</span></th>
+    <th><span style="font-weight:bold;color:gray;width:70px;display:inline-block;text-align:center">&nbsp;</span></th>
+    <th><span style="font-weight:bold;color:gray;width:245px;display:inline-block;text-align:center">APRIL</span></th>
+    <th><span style="font-weight:bold;color:gray;width:70px;display:inline-block;text-align:center">&nbsp;</span></th>
+    <th><span style="font-weight:bold;color:gray;width:245px;display:inline-block;text-align:center">MAY</span></th></tr>
 <tr><td>
     <table style="border-collapse:collapse; width:100%">
         <tr>
@@ -65,10 +70,9 @@ layout: passage
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
-            <td><span style="color:gray; margin:auto; display:table;">&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
         </tr>
     </table>
-</td><td>
+</td><td></td><td>
     <table style="border-collapse:collapse; width:100%">
         <tr>
             <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">S</span></th>
@@ -123,10 +127,9 @@ layout: passage
             <td><span style="color:gray; margin:auto; display:table;">29</span></td>
             <td><span style="color:gray; margin:auto; display:table;">30</span></td>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
-            <td><span style="color:gray; margin:auto; display:table;">&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
         </tr>
     </table>
-</td><td>
+</td><td></td><td>
     <table style="border-collapse:collapse; width:100%">
         <tr>
             <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">S</span></th>
@@ -181,7 +184,6 @@ layout: passage
             <td><span style="color:gray; margin:auto; display:table;">27</span></td>
             <td><span style="color:gray; margin:auto; display:table;">28</span></td>
             <td><span style="color:gray; margin:auto; display:table;">29</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
         </tr>
     </table>
 </td></tr> </table>
