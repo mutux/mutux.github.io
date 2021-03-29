@@ -1,5 +1,5 @@
 ---
-title: 46
+title: 43
 layout: passage
 ---
 [<span style="color:lightgray;width:168px;display:inline-block;text-align:left">EMNLP &#9679; 05-10</span>](https://www.softconf.com/emnlp2021/papers/user/)
@@ -59,12 +59,12 @@ layout: passage
             <td><span style="color:lightgray; margin:auto; display:table;">23</span></td>
             <td><span style="color:lightgray; margin:auto; display:table;">24</span></td>
             <td><span style="color:lightgray; margin:auto; display:table;">25</span></td>
-            <td align="center"><span style="color:black; border-radius:50%; width:25px; height:25px; border:2px solid tomato;">26</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">27</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">26</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">27</span></td>
         </tr>
         <tr>
-            <td><span style="color:gray; margin:auto; display:table;">28</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">29</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">28</span></td>
+            <td align="center"><span style="color:black; border-radius:50%; width:25px; height:25px; border:2px solid tomato;">29</span></td>
             <td><span style="color:gray; margin:auto; display:table;">30</span></td>
             <td><span style="color:gray; margin:auto; display:table;">31</span></td>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
