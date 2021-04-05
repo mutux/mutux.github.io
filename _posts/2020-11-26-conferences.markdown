@@ -1,5 +1,5 @@
 ---
-title: 41
+title: 36
 layout: passage
 ---
 [<span style="color:lightgray;width:168px;display:inline-block;text-align:left">EMNLP &#9679; 05-10</span>](https://www.softconf.com/emnlp2021/papers/user/)
@@ -66,7 +66,7 @@ layout: passage
             <td><span style="color:lightgray; margin:auto; display:table;">28</span></td>
             <td><span style="color:lightgray; margin:auto; display:table;">29</span></td>
             <td><span style="color:lightgray; margin:auto; display:table;">30</span></td>
-            <td align="center"><span style="color:black; border-radius:50%; width:25px; height:25px; border:2px solid tomato;">31</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">31</span></td>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
@@ -88,13 +88,13 @@ layout: passage
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
-            <td><span style="color:gray; margin:auto; display:table;">1</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">2</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">3</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">1</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">2</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">3</span></td>
         </tr>
         <tr>
-            <td><span style="color:gray; margin:auto; display:table;">4</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">5</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">4</span></td>
+            <td align="center"><span style="color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">&nbsp;5&nbsp;</span></td>
             <td><span style="color:gray; margin:auto; display:table;">6</span></td>
             <td><span style="color:gray; margin:auto; display:table;">7</span></td>
             <td><span style="color:gray; margin:auto; display:table;">8</span></td>
@@ -199,7 +199,7 @@ layout: passage
     <br>
     <span style="color:lightgray;font-size:8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAY &nbsp;  &#9679; &nbsp;&nbsp; EMNLP, CIKM, NIPS</span>
     <br>
-    <span style="color:lightgray;font-size:8pt">&nbsp;&nbsp; AUG &#9679; SEP &nbsp; &#9679; &nbsp;&nbsp; WSDM, AAAI >> WWW, ICRL</span>
+    <span style="color:lightgray;font-size:8pt">&nbsp;&nbsp; AUG &#9679; SEP &nbsp; &#9679; &nbsp;&nbsp; WSDM, AAAI >> WWW, ICLR</span>
     <br>
     <span style="color:lightgray;font-size:8pt">------------------------------------------------------------------------------ Target Conferences  --------------------------------------------------------------------------</span>
     <br>
