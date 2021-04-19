@@ -1,5 +1,5 @@
 ---
-title: 23
+title: 22
 layout: passage
 ---
 [<span style="color:lightgray;width:168px;display:inline-block;text-align:left">EMNLP &#9679; 05-10</span>](https://www.softconf.com/emnlp2021/papers/user/)
@@ -112,8 +112,7 @@ layout: passage
         </tr>
         <tr>
             <td><span style="color:lightgray; margin:auto; display:table;">18</span></td>
-            <td align="center"><span style="color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">&nbsp;18&nbsp;</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">19</span></td>
+            <td align="center"><span style="color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">&nbsp;19&nbsp;</span></td>
             <td><span style="color:gray; margin:auto; display:table;">20</span></td>
             <td><span style="color:gray; margin:auto; display:table;">21</span></td>
             <td><span style="color:gray; margin:auto; display:table;">22</span></td>
