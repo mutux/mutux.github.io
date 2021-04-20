@@ -113,7 +113,7 @@ layout: passage
         <tr>
             <td><span style="color:lightgray; margin:auto; display:table;">18</span></td>
             <td><span style="color:lightgray; margin:auto; display:table;">19</span></td>
-            <td align="center"><span style="color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">&nbsp;20&nbsp;</span></td>
+            <td align="center"><span style="color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">20</span></td>
             <td><span style="color:gray; margin:auto; display:table;">21</span></td>
             <td><span style="color:gray; margin:auto; display:table;">22</span></td>
             <td><span style="color:gray; margin:auto; display:table;">23</span></td>
