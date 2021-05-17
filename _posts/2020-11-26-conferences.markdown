@@ -1,5 +1,5 @@
 ---
-title: 21
+title: 0
 layout: passage
 ---
 [<span style="color:lightgray;width:168px;display:inline-block;text-align:left">EMNLP &#9679; 05-10</span>](https://www.softconf.com/emnlp2021/papers/user/)
@@ -113,19 +113,19 @@ layout: passage
         <tr>
             <td><span style="color:lightgray; margin:auto; display:table;">18</span></td>
             <td><span style="color:lightgray; margin:auto; display:table;">19</span></td>
-            <td align="center"><span style="color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">20</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">21</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">22</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">23</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">24</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">20</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">21</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">22</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">23</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">24</span></td>
         </tr>
         <tr>
-            <td><span style="color:gray; margin:auto; display:table;">25</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">26</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">27</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">28</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">29</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">30</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">25</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">26</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">27</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">28</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">29</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">30</span></td>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
         </tr>
     </table>
@@ -147,29 +147,29 @@ layout: passage
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
-            <td><span style="color:gray; margin:auto; display:table;">1</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">1</span></td>
         </tr>
         <tr>
-            <td><span style="color:gray; margin:auto; display:table;">2</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">3</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">4</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">5</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">6</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">7</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">8</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">2</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">3</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">4</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">5</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">6</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">7</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">8</span></td>
         </tr>
         <tr>
-            <td><span style="color:gray; margin:auto; display:table;">9</span></td>
-            <td><span style="background-color:limegreen;display:table;width:25px;height:25px;text-align:center;color:white;margin:auto;">10</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">11</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">12</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">13</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">14</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">15</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">9</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">10</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">11</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">12</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">13</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">14</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">15</span></td>
         </tr>
         <tr>
-            <td><span style="color:gray; margin:auto; display:table;">16</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">17</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">16</span></td>
+            <td align="center"><span style="background-color:lightgreen;color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">17</span></td>
             <td><span style="color:gray; margin:auto; display:table;">18</span></td>
             <td><span style="background-color:limegreen;display:table;width:25px;height:25px;text-align:center;color:white; margin:auto;">19</span></td>
             <td><span style="color:gray; margin:auto; display:table;">20</span></td>
