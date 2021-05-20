@@ -1,5 +1,5 @@
 ---
-title: 15
+title: 12
 layout: passage
 ---
 [<span style="color:lightgray;width:128px;display:inline-block;text-align:left">CIKM &#9679; 06-02</span>](https://easychair.org/conferences/overview?a=26531864)
@@ -59,9 +59,9 @@ layout: passage
             <td><span style="color:lightgray; margin:auto; display:table;">16</span></td>
             <td><span style="color:lightgray; margin:auto; display:table;">17</span></td>
             <!--<td align="center"><span style="background-color:lightgreen;color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">17</span></td> -->
-            <td align="center"><span style="background-color:white;color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">18</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">19</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">20</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">18</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">19</span></td>
+            <td align="center"><span style="background-color:white;color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">20</span></td>
             <td><span style="color:gray; margin:auto; display:table;">21</span></td>
             <td><span style="color:gray; margin:auto; display:table;">22</span></td>
         </tr>
