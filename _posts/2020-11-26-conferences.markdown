@@ -1,9 +1,8 @@
 ---
-title: 3
+title: 0
 layout: passage
 ---
-[<span style="color:lightgray;width:128px;display:inline-block;text-align:left">CIKM &#9679; 06-02</span>](https://easychair.org/conferences/overview?a=26531864)
-<span style="color:lightgray;width:128px;display:inline-block;text-align:left">WSDM &#9679; 08-09</span>
+[<span style="color:lightgray;width:128px;display:inline-block;text-align:left">WSDM &#9679; 08-09</span>](https://www.wsdm-conference.org/2022/)
 <span style="color:lightgray;width:128px;display:inline-block;text-align:left">AAAI &#9679; 09-01</span>
 <span style="color:lightgray;width:128px;display:inline-block;text-align:left">ICLR &#9679; 09-28</span>
 <span style="color:lightgray;width:128px;display:inline-block;text-align:left">WWW &#9679; 10-11</span>
@@ -12,70 +11,12 @@ layout: passage
 
 <table>
 <tr>
-    <th><span style="font-weight:bold;color:gray;width:245px;display:inline-block;text-align:center">MAY</span></th>
-    <th><span style="font-weight:bold;color:gray;width:70px;display:inline-block;text-align:center">&nbsp;</span></th>
     <th><span style="font-weight:bold;color:gray;width:245px;display:inline-block;text-align:center">JUNE</span></th>
     <th><span style="font-weight:bold;color:gray;width:70px;display:inline-block;text-align:center">&nbsp;</span></th>
-    <th><span style="font-weight:bold;color:gray;width:245px;display:inline-block;text-align:center">JULY</span></th></tr>
+    <th><span style="font-weight:bold;color:gray;width:245px;display:inline-block;text-align:center">JULY</span></th>
+    <th><span style="font-weight:bold;color:gray;width:70px;display:inline-block;text-align:center">&nbsp;</span></th>
+    <th><span style="font-weight:bold;color:gray;width:245px;display:inline-block;text-align:center">AUGUST</span></th></tr>
 <tr><td>
-    <table style="border-collapse:collapse; width:100%">
-        <tr>
-            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">S</span></th>
-            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">M</span></th>
-            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">T</span></th>
-            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">W</span></th>
-            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">T</span></th>
-            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">F</span></th>
-            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">S</span></th>
-        </tr>
-        <tr>
-            <td><span style="color:lightgray; margin:auto; display:table;">30</span></td>
-            <td align="center"><span style="background-color:white;color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">31</span></td>
-            <td><span style="color:gray; margin:auto; display:table;"> </span></td>
-            <td><span style="color:gray; margin:auto; display:table;"> </span></td>
-            <td><span style="color:gray; margin:auto; display:table;"> </span></td>
-            <td><span style="color:gray; margin:auto; display:table;"> </span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">1</span></td>
-        </tr>
-        <tr>
-            <td><span style="color:lightgray; margin:auto; display:table;">2</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">3</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">4</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">5</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">6</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">7</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">8</span></td>
-        </tr>
-        <tr>
-            <td><span style="color:lightgray; margin:auto; display:table;">9</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">10</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">11</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">12</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">13</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">14</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">15</span></td>
-        </tr>
-        <tr>
-            <td><span style="color:lightgray; margin:auto; display:table;">16</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">17</span></td>
-            <!--<td align="center"><span style="background-color:lightgreen;color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">17</span></td> -->
-            <td><span style="color:lightgray; margin:auto; display:table;">18</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">19</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">20</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">21</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">22</span></td>
-        </tr>
-        <tr>
-            <td><span style="color:lightgray; margin:auto; display:table;">23</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">24</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">25</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">26</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">27</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">28</span></td>
-            <td><span style="color:lightgray; margin:auto; display:table;">29</span></td>
-        </tr>
-    </table>
-</td><td></td><td>
     <table style="border-collapse:collapse; width:100%">
         <tr>
             <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal;">S</span></th>
@@ -89,10 +30,10 @@ layout: passage
         <tr>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
             <td><span style="color:gray; margin:auto; display:table;"> </span></td>
-            <td><span style="color:gray; margin:auto; display:table;">1</span></td>
-            <td><span style="background-color:limegreen;display:table;width:25px;height:25px;text-align:center;color:white; margin:auto;"> 2 </span></td>
-            <td><span style="color:gray; margin:auto; display:table;">3</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">4</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">1</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">2</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">3</span></td>
+            <td align="center"><span style="background-color:white;color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">&nbsp;4&nbsp;</span></td>
             <td><span style="color:gray; margin:auto; display:table;">5</span></td>
         </tr>
         <tr>
@@ -189,6 +130,63 @@ layout: passage
             <td><span style="color:gray; margin:auto; display:table;">31</span></td>
         </tr>
     </table>
+</td><td></td><td>
+    <table style="border-collapse:collapse; width:100%">
+        <tr>
+            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">S</span></th>
+            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">M</span></th>
+            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">T</span></th>
+            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">W</span></th>
+            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">T</span></th>
+            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">F</span></th>
+            <th style="border-bottom: 1px solid black;"><span style="background-color:tomato;color:white;border-radius:50%;width:29px;height:29px;display:inline-block;text-align:center;font-weight:normal">S</span></th>
+        </tr>
+        <tr>
+            <td><span style="color:gray; margin:auto; display:table;">1</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">2</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">3</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">4</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">5</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">6</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">7</span></td>
+        </tr>
+        <tr>
+            <td><span style="color:gray; margin:auto; display:table;">8</span></td>
+            <td><span style="background-color:limegreen;display:table;width:25px;height:25px;text-align:center;color:white; margin:auto;"> 9 </span></td>
+            <td><span style="color:gray; margin:auto; display:table;">10</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">11</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">12</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">13</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">14</span></td>
+        </tr>
+        <tr>
+            <td><span style="color:gray; margin:auto; display:table;">15</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">16</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">17</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">18</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">19</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">20</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">21</span></td>
+        </tr>
+        <tr>
+            <td><span style="color:gray; margin:auto; display:table;">22</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">23</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">24</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">25</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">26</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">27</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">28</span></td>
+        </tr>
+        <tr>
+            <td><span style="color:gray; margin:auto; display:table;">29</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">30</span></td>
+            <td><span style="color:gray; margin:auto; display:table;">31</span></td>
+            <td><span style="color:gray; margin:auto; display:table;"> </span></td>
+            <td><span style="color:gray; margin:auto; display:table;"> </span></td>
+            <td><span style="color:gray; margin:auto; display:table;"> </span></td>
+            <td><span style="color:gray; margin:auto; display:table;"> </span></td>
+        </tr>
+    </table>
 </td></tr> </table>
 
 <br>
@@ -206,6 +204,7 @@ layout: passage
     <br>
     <span style="color:lightgray;font-size:8pt">------------------------------------------------------------------------------ Target Conferences  --------------------------------------------------------------------------</span>
     <br>
+    <span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt"><del>CIKM &#9679; 06-02</del></span>
     <span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt"><del>NIPS &#9679; 05-21</del></span>
     <span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt"><del>EMNLP &#9679; 05-17</del></span>
     <span style="color:lightgray;width:118px;display:inline-block;text-align:left;font-size:8pt"><del>SIGIR Short &#9679; 03-02</del></span>
