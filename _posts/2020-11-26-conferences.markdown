@@ -33,16 +33,16 @@ layout: passage
             <td><span style="color:lightgray; margin:auto; display:table;">1</span></td>
             <td><span style="color:lightgray; margin:auto; display:table;">2</span></td>
             <td><span style="color:lightgray; margin:auto; display:table;">3</span></td>
-            <td align="center"><span style="background-color:white;color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">&nbsp;4&nbsp;</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">5</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">5</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">6</span></td>
         </tr>
         <tr>
-            <td><span style="color:gray; margin:auto; display:table;">6</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">7</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">8</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">9</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">10</span></td>
-            <td><span style="color:gray; margin:auto; display:table;">11</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">6</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">7</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">8</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">9</span></td>
+            <td><span style="color:lightgray; margin:auto; display:table;">10</span></td>
+            <td align="center"><span style="background-color:white;color:black; border-radius:50%; width:25px; height:25px; border:1px solid tomato;">11</span></td>
             <td><span style="color:gray; margin:auto; display:table;">12</span></td>
         </tr>
         <tr>
